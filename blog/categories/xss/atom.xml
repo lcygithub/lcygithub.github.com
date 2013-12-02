@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[KhanBlog]]></title>
-  <link href="http://lcygithub.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: xss | KhanBlog]]></title>
+  <link href="http://lcygithub.github.io/blog/categories/xss/atom.xml" rel="self"/>
   <link href="http://lcygithub.github.io/"/>
   <updated>2013-12-03T03:18:57+08:00</updated>
   <id>http://lcygithub.github.io/</id>
